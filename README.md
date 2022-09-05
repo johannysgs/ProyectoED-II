@@ -21,4 +21,4 @@
  > (https://drive.google.com/file/d/1br0f8ltFGevvy-o6iQkvb9aZxZ8Ty11B/view?usp=sharing)
 
 *Historia Tecnica*
->     ![Tux, the Linux mascot](/assets/images/tux.png)
+>   (https://drive.google.com/file/d/1A-8TOpVH0Vkj2gWKgu4tGh58EvcLHdA1/view?usp=sharing)
