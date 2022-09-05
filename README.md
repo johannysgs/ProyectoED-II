@@ -15,3 +15,8 @@
 > Historia de Usuario ED-001 (Enlace o screenshot a la Historia)
 
 > Historia Técnica ED-002 (Enlace o screenshot a la Historia)
+
+*Historia de Usuario*
+
+ > (https://drive.google.com/file/d/1br0f8ltFGevvy-o6iQkvb9aZxZ8Ty11B/view?usp=sharing)
+
