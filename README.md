@@ -20,3 +20,5 @@
 
  > (https://drive.google.com/file/d/1br0f8ltFGevvy-o6iQkvb9aZxZ8Ty11B/view?usp=sharing)
 
+*Historia Tecnica*
+>     ![Tux, the Linux mascot](/assets/images/tux.png)
